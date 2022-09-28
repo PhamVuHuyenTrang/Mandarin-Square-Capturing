@@ -18,7 +18,7 @@ Both (active) members participated in brain-storming and constructing the diagra
 1. Pham Vu Huyen Trang (50%)
 - Implement Gem and Player classes.
 - Implement the GamePlay class.
-- Implement 80% of the GamePlayScreenController (espically the choosing direction methods).
+- Implement 80% of the GamePlayScreenController (especially the choosing direction methods).
 - Design PlayScreen and GamePlayScrene with SceneBuilder.
 - Find and integrate audio to the program.
 - Design slide.
