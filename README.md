@@ -10,7 +10,7 @@ OOP Project 20212
 - Implement Gem and Player classes.
 - Implement the GamePlay class.
 - Implement 80% of the GamePlayScreenController (especially the choosing direction methods).
-- Design PlayScreen and GamePlayScrene with SceneBuilder.
+- Design PlayScreen and GamePlayScreen with SceneBuilder.
 - Find and integrate audio to the program.
 - Design slide.
 - Review report.
